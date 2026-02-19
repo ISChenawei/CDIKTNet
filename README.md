@@ -1,4 +1,4 @@
-## NCDM 2026 [[paper](https://arxiv.org/pdf/2512.19365)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
+## M-EGTD 2026 [[paper](https://arxiv.org/pdf/2512.19365)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
 <p align="center">
   <p align="left">
     <img src="access/1.svg" alt="Description of the image" style="width:80%;">
