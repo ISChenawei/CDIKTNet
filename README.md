@@ -105,10 +105,10 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
  If you find this code useful for your research, please cite our papers.
 
 ```bibtex
-@article{chen2025efficient,
-  title={Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization},
-  author={Chen, Zhongwei, Yang, Zhao-Xu, Rong, Hai-Jun, Guoqi Li},
-  journal={arXiv preprint arXiv:2512.19365},
+@article{chen2025limited,
+  title={From limited labels to open domains: An efficient learning method for drone-view geo-localization},
+  author={Chen, Zhongwei and Yang, Zhao-Xu and Rong, Hai-Jun and Lang, Jiawei and Li, Guoqi},
+  journal={arXiv preprint arXiv:2503.07520},
   year={2025}
 }
 ```
