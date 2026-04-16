@@ -1,4 +1,4 @@
-## CDIKTNet 2026 [[paper](https://arxiv.org/pdf/2512.19365)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
+## CDIKTNet 2025 [[paper](https://arxiv.org/abs/2503.07520)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
 <p align="center">
   <p align="left">
     <img src="access/1.svg" alt="Description of the image" style="width:80%;">
@@ -114,4 +114,3 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 ```
 ## <a id="acknowledgments"></a> 🙏 Acknowledgments
 This repository is built using the [DAC](https://github.com/SummerpanKing/DAC), [Meta-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V2), [E-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V3) repositories. Thanks for their wonderful work.
-
