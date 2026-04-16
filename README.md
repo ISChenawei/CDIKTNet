@@ -32,11 +32,13 @@ The current version of the repository can cover the experiments reported in the 
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
 
+## <a id="news"></a> 🔥 News
+- [Apr  15, 2026]: CDIKTNet is accepted by TMM'26 🎉
 ## <a id="todos"></a> 📜 TODOs
 
 - [x] Release the **training** code
 - [x] Release the **evaluation** (testing) code
-- [x] Release the **pretrained weights** of SpikeViMFormer
+- [x] Release the **pretrained weights** of CDIKTNet
 
 ## <a id="dataset-access"></a> 💾 Dataset Access
 Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark)
