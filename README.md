@@ -15,21 +15,10 @@
   <sup>6</sup>Peng Cheng Laboratory
 </div>
   <!-- <p align="center">
-    <img src="access/2.pdf" alt="Description of the image" style="width:100%;">
-    <img src="access/3.pdf" alt="Description of the image" style="width:100%;">
-    <img src="access/4.pdf" alt="Description of the image" style="width:100%;">
+    <img src="access/2.svg" alt="Description of the image" style="width:100%;">
+    <img src="access/3.svg" alt="Description of the image" style="width:100%;">
+    <img src="access/4.svg" alt="Description of the image" style="width:100%;">
   <p align="center"> -->
-<p align="center">
-    <object data="access/2.pdf" type="application/pdf" width="100%" height="600px">
-       </p>
-    </object>
-    <object data="access/3.pdf" type="application/pdf" width="100%" height="600px">
-      </p>
-    </object>
-    <object data="access/4.pdf" type="application/pdf" width="100%" height="600px">
-      </p>
-    </object>
-</p>
 This repository is the official implementation of the paper "Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization". 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
